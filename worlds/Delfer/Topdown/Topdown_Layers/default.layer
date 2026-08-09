@@ -16,7 +16,6 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
   PS_FactionRespawnCount "{6944011EEBAA9315}" {
    m_sFactionKey "GC_TKA"
    m_iCount 8
-   m_iTime 20
    m_sPosition "Respawn"
   }
  }
@@ -30,7 +29,7 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
     }
     SCR_Faction "{655D481EFA969864}" {
      UIInfo SCR_FactionUIInfo "{528C96127F8B6B08}" {
-      Name "International Legion"
+      Name "Foreign Legion"
       Icon "{E5E9C92225AB4C12}Images/GC_CDF_flag.edds"
      }
      m_sFactionFlag "{E5E9C92225AB4C12}Images/GC_CDF_flag.edds"
@@ -49,10 +48,6 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
    }
   }
  }
-}
-Vehicle BMP2_Olive_test1 : "{1EF865DC4E3F7E0B}IFV/BMP2/BMP2_Olive_test.et" {
- coords 1850.867 10.17 3653.199
- angles 0 -170.182 0
 }
 TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramework.et" {
  coords 3333.299 24.48 3186.674
@@ -92,7 +87,7 @@ TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramewor
      m_messageBody "If Blufor controls the trench objective, they win."
     }
     TILW_SendMessageInstruction "{6704E608DFED54D4}" {
-     m_executionDelay 3100
+     m_executionDelay 3300
      m_messageTitle "5 Minutes Remaining"
     }
    }

@@ -8,7 +8,6 @@ SCR_AIGroup Coy : "{26E9D09E8E3C0CC0}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Motor
  angles 0 -163.727 0
  m_aUnitPrefabSlots {
   "{B6F45CD9B24BA3FA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_CoyL_P.et"
-  ""
   "{3CABD69DABD06AED}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/2025/MSV/Loadouts/Character_AFRF_2025_DroneDrop_2.et"
   "{98225B91E3874440}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Medic_P.et"
   "{98225B91E3874440}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Medic_P.et"
@@ -35,8 +34,6 @@ $grp SCR_AIGroup : "{312B31A3D81EF88A}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
    "{1BE41B126CD952A5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Sergeant_P.et"
    "{02AAEF44AAA1F920}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_MG_P.et"
    "{79D602DEE89A3934}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AMG_P.et"
-   ""
-   ""
   }
   m_sCustomNameSet "Frontline Platoon"
   {
@@ -102,10 +99,6 @@ $grp SCR_AIGroup : "{312B31A3D81EF88A}Prefabs/Groups/OPFOR/Russia/2020/AFRF_Moto
   m_aUnitPrefabSlots {
    "{38E7CC05E50D0B54}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_PL_P.et"
    "{1BE41B126CD952A5}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/RHS Inherits/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Sergeant_P.et"
-   ""
-   ""
-   ""
-   ""
   }
   m_sCustomNameSet "Reinforcement Platoon"
   {

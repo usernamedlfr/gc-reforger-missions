@@ -24,7 +24,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  {
   coords 3823.163 34.626 2679.487
   m_sTitle "Situation Enemy"
-  m_sTextData "Our lead platoon (AI) is in grenade range of a platoon of Ukrainian foreign legion fighters, with reinforcements being sent to reinforce their position now. Some elements are marked on your map. They are occupying positions in depth at the farm as well."\
+  m_sTextData "Our lead platoon (AI) is in grenade range of a platoon of CDF foreign legion fighters, with reinforcements being sent to reinforce their position now. Some elements are marked on your map. They are occupying positions in depth at the farm as well."\
   ""\
   "They are wearing green brown striped camouflage and are using M16s, M240s, RPGs and UBGL's."\
   ""\

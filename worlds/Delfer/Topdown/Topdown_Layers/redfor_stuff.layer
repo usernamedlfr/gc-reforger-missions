@@ -1,16 +1,20 @@
+Vehicle BMP2_Olive_test1 : "{1EF865DC4E3F7E0B}IFV/BMP2/BMP2_Olive_test.et" {
+ coords 1850.867 10.169 3653.199
+ angles -0.153 -170.184 0.882
+}
 $grp Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
  UAZ1 {
-  coords 1855.537 10.175 3678.089
-  angles 0 -166.576 0
+  coords 1855.537 10.351 3678.089
+  angles 0.208 -166.579 -0.871
  }
  UAZ2 {
-  coords 1857.634 10.156 3687.905
-  angles 0 -166.576 0
+  coords 1857.634 10.349 3687.905
+  angles 0.208 -166.579 -0.871
  }
 }
 Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
- coords 1853.273 10.156 3669.686
- angles 0 -167.341 0
+ coords 1853.273 10.308 3669.686
+ angles -0.873 -167.338 -0.196
  {
   GameEnvironmentProbeEntity {
    ID "666478A8DFCD08F0"
